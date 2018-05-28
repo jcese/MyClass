@@ -22,6 +22,7 @@ public class DoBean {
 			System.out.println("2.查询");
 
 			System.out.println("3.统计");
+			System.out.println("0.退出");
 
 			System.out.println("请输入你要选择服务的数字");
 
@@ -79,7 +80,7 @@ public class DoBean {
 				System.out.println("已签到人数："+i);
 
 			}
-
+			
 		}
 	}
 }
